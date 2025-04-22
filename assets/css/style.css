@@ -945,6 +945,8 @@ header .right_bt .btn {
   margin: 19px 0 19px;
   position: relative;
   left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .logo img {
