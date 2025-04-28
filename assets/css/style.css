@@ -1580,6 +1580,10 @@ body.light_blue #full_slider.full_slider_inner {
   padding-bottom: 80px;
 }
 
+.padding_layout_2_small {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
 section.quality_ser_bg {
   background-repeat: repeat-x !important;
   background-position: bottom center !important;
